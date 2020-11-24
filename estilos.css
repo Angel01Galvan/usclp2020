@@ -1,0 +1,165 @@
+h1{
+    font-family: cursive;
+    background-color: rgb(238, 255, 0);
+    color: orangered;
+    text-align: center;
+    border-radius: 50%;
+    width: fit-content;
+    padding: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3em;
+  }
+  
+  img{
+  max-width: 100%;
+  
+  }
+  body{
+      text-align: center;
+      width: 100%;
+      border: 0;
+      margin: 0;
+      padding: 0;
+      background-color: darkblue;
+  }
+  article{
+      width: 30%;
+      display: inline-block;
+      margin: 0.2em;
+      background-color: white;
+      text-align: left;
+      border-radius: 20% 5% 5% 20%;
+  }
+
+  article:hover{
+    background-color: rgb(255, 166, 0);
+}
+  
+  .diseño1-img{
+  width: 50%;
+  height: 300px;
+  border-radius: 10%;
+  background-image: url(Ideas1.jpg);
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+  margin-right: 1em;
+  }
+
+  .diseño2-img{
+    width: 50%;
+    height: 300px;
+    border-radius: 10%;
+    background-image: url(Ilustraciones1.jpg);
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 1em;
+    }
+
+.diseño3-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(diseño1.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño4-img{
+ width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(Assets1.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño5-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(modelado1.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño6-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(Nivel1.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+.diseño7-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(Program1.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño8-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(Program2.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño9-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(Program3.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+  .info{
+      width: 25%;
+      height: 300px;
+      display: inline-block;
+      vertical-align: top;
+      font-family:  sans-serif;
+      opacity: 0.8;
+  }
+  .info span{
+      display: block;
+  }
+  
+  
+  h2{
+  display: inline;
+  font-family: cursive;
+  font-size: 2em;
+  opacity: 0.8;
+  margin-top: 1em;
+  margin-bottom: 2em;
+  text-decoration: underline;
+  }
+
+  h3{
+  font-family: cursive;
+  text-align: center;
+  font-size: 50px;
+  color: orangered;
+  }
