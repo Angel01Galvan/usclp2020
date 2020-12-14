@@ -1,7 +1,7 @@
 h1{
     font-family: cursive;
-    background-color: rgb(238, 255, 0);
-    color: orangered;
+    background-color: rgb(255, 123, 0);
+    color: rgb(251, 255, 0);
     text-align: center;
     border-radius: 50%;
     width: fit-content;
@@ -33,36 +33,36 @@ h1{
   }
 
   article:hover{
-    background-color: rgb(255, 166, 0);
+    background-color: rgb(229, 255, 0);
 }
   
-  .diseño1-img{
-  width: 50%;
-  height: 300px;
-  border-radius: 10%;
-  background-image: url(Ideas1.jpg);
-  background-position: center;
-  background-size: cover;
-  display: inline-block;
-  margin-right: 1em;
-  }
+.diseño1-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(https://i.imgur.com/cVDG1CR.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
 
-  .diseño2-img{
-    width: 50%;
-    height: 300px;
-    border-radius: 10%;
-    background-image: url(Ilustraciones1.jpg);
-    background-position: center;
-    background-size: cover;
-    display: inline-block;
-    margin-right: 1em;
-    }
+.diseño2-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(https://i.imgur.com/cVmkQKT.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
 
 .diseño3-img{
 width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(diseño1.jpg);
+background-image: url(https://i.imgur.com/qNtRe6E.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
@@ -73,7 +73,7 @@ margin-right: 1em;
  width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(Assets1.jpg);
+background-image: url(https://i.imgur.com/ZlQQm8n.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
@@ -84,7 +84,7 @@ margin-right: 1em;
 width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(modelado1.jpg);
+background-image: url(https://i.imgur.com/P1FfkQn.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
@@ -95,7 +95,7 @@ margin-right: 1em;
 width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(Nivel1.jpg);
+background-image: url(https://i.imgur.com/AiRX5Yq.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
@@ -105,7 +105,7 @@ margin-right: 1em;
 width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(Program1.jpg);
+background-image: url(https://i.imgur.com/ljqBow6.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
@@ -116,7 +116,7 @@ margin-right: 1em;
 width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(Program2.jpg);
+background-image: url(https://i.imgur.com/JJHfb9X.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
@@ -127,12 +127,66 @@ margin-right: 1em;
 width: 50%;
 height: 300px;
 border-radius: 10%;
-background-image: url(Program3.jpg);
+background-image: url(https://i.imgur.com/biBOO7h.jpg);
 background-position: center;
 background-size: cover;
 display: inline-block;
 margin-right: 1em;
 }
+.diseño10-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(https://i.imgur.com/u2Z5wiA.png);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño11-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(https://i.imgur.com/erPRGPA.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño12-img{
+width: 50%;
+height: 300px;
+border-radius: 10%;
+background-image: url(https://i.imgur.com/qGBER0v.jpg);
+background-position: center;
+background-size: cover;
+display: inline-block;
+margin-right: 1em;
+}
+
+.diseño13-img{
+  width: 50%;
+  height: 300px;
+  border-radius: 10%;
+  background-image: url(https://i.imgur.com/0BTLAPc.jpg);
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+  margin-right: 1em;
+  }
+
+  .diseño14-img{
+    width: 50%;
+    height: 300px;
+    border-radius: 10%;
+    background-image: url(https://i.imgur.com/3XKyEFc.jpg);
+    background-position: center;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 1em;
+    }
 
   .info{
       width: 25%;
@@ -144,22 +198,57 @@ margin-right: 1em;
   }
   .info span{
       display: block;
+      color: blue;
   }
   
   
   h2{
   display: inline;
   font-family: cursive;
-  font-size: 2em;
+  font-size: 1.2em;
   opacity: 0.8;
   margin-top: 1em;
   margin-bottom: 2em;
   text-decoration: underline;
+  color: rgb(255, 72, 0);
   }
 
   h3{
   font-family: cursive;
   text-align: center;
   font-size: 50px;
-  color: orangered;
+  color: rgb(238, 255, 0);
+  background-color: rgb(255, 123, 0);
   }
+
+  h4{
+    font-family: cursive;
+    text-align: left;
+    font-size: 50px;
+    margin-left: 100px;
+    color: rgb(238, 255, 0);
+    background-color: rgb(255, 123, 0) ;
+    }
+
+    a{
+      color: rgb(238, 255, 0);
+    }
+    h5{
+      
+    }
+
+    img{
+   width: 8%;
+   height: 8%;
+   margin-right: 80%;
+   margin-top: -10%;
+   border-radius: 1%;
+    }
+
+    p{
+      color: yellow;
+      font-family: cursive;
+      margin-left: 70px;
+    }
+    
+
